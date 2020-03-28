@@ -1,12 +1,11 @@
 # toriarose789.github.io
-<!DOCTYPE HTML>
 <html>
  <head>
    <h1>What Is So Intersting About Victoria Rose Lane?</h1>
  </head>
   <Nav>
     <ul>
-	<li "class=current"><a href=index.html">Home</a></li>
+	<li"class=current"><a href=index.html>Home</a></li>
 	<li><a href="aboutme.html">About Me</a></li>
 	<li><a href="projects.html"> Projects</a></li>
     </ul>
