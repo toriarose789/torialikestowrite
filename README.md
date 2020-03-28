@@ -4,7 +4,7 @@
  </head>
   <Nav>
     <ul>
-	<li>"class=current"><a href=index.html">Home</a></li>
+	<li><a href=index.html">Home</a></li>
 	<li><a href="aboutme.html">About Me</a></li>
 	<li><a href="projects.html"> Projects</a></li>
     </ul>
