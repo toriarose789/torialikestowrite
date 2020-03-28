@@ -1,7 +1,7 @@
 <html>
  <head>
    <h1>Victoria Rose Lane Loves TO Write</h1>
-   <nav>...<nav>
+   <nav>...</nav>
    <img src="images/img_5709.jpg" alt="Victoria Surrounded By Hollyhocks">
  </head>
   <Nav>
