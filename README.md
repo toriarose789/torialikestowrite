@@ -3,7 +3,7 @@
    <h1>Victoria Rose Lane Loves To Write</h1>
  </head>
  <nav>...</nav>
- <img src="torialikestowrite/images/Books.jpg" alt="Books,masks,and cats" />
+ <img src="torialikestowrite/Books.jpg" alt="Books,masks,and cats" />
    <Nav>
     <ul>
 	<li><a href="index.html">Home</a></li> 
